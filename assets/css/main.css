@@ -3092,7 +3092,8 @@ input, select, textarea {
 		}
 
 		#header.alt {
-			padding: 7em 5em 4em 5em ;
+			/*padding: 7em 5em 4em 5em ;*/
+			padding: 0px 0px 0px 0px ;
 		}
 
 			#header.alt h1 {
@@ -3133,11 +3134,13 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#header {
-				padding: 4em 4em 0.1em 4em ;
+				/*padding: 4em 4em 0.1em 4em ;*/
+				padding: 0px 0px 0px 0px ;
 			}
 
 				#header.alt {
-					padding: 6em 4em 3em 4em ;
+					/*padding: 6em 4em 3em 4em ;*/
+					padding: 0px 0px 0px 0px ;
 				}
 
 		}
