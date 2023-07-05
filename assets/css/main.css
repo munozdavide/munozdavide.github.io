@@ -3134,13 +3134,13 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#header {
-				padding: 1em 4em 0em 4em ;
-				/*padding: 0px 0px 0px 0px ;*/
+				/*padding: 4em 4em 0.1em 4em ;*/
+				padding: 4em 4em 0em 4em ;
 			}
 
 				#header.alt {
 					/*padding: 6em 4em 3em 4em ;*/
-					padding: 0px 0px 0px 0px ;
+					padding: 1em 4em 3em 4em ;
 				}
 
 		}
