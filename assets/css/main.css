@@ -197,7 +197,7 @@ input, select, textarea {
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 400;
+		font-weight: 300;
 		line-height: 1.5;
 		margin: 0 0 0.7em 0;
 		letter-spacing: -0.025em;
@@ -3344,7 +3344,7 @@ input, select, textarea {
 
 	#main {
 		background-color: #ffffff;
-		color: #e72496;/*#636363;*/
+		color: #000000;/*#636363;*/
 		border-radius: 0.25em;
 	}
 
