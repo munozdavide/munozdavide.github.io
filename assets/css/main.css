@@ -197,7 +197,7 @@ input, select, textarea {
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 200;
+		font-weight: 500;
 		line-height: 1.5;
 		margin: 0 0 0.7em 0;
 		letter-spacing: -0.025em;
@@ -3349,7 +3349,7 @@ input, select, textarea {
 	}
 
 		#main input, #main select, #main textarea {
-			color: #000000;/*#636363;*/
+			color: #636363;
 		}
 
 		#main a:hover {
@@ -3357,7 +3357,7 @@ input, select, textarea {
 		}
 
 		#main strong, #main b {
-			color: #636363;
+			color: #000000;/*#636363;*/
 		}
 
 		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
